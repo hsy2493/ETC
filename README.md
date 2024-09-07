@@ -9,7 +9,9 @@
 - 요구사항 정의서 : ![image](https://github.com/user-attachments/assets/5ede1521-e916-46a2-ad30-b1a16fb8f66c) <br>
 - 워크 플로우 : ![image](https://github.com/user-attachments/assets/3c6c7404-f6ea-4a30-a9bf-0e7ce617a85f) <br>
 - PPT 자료 (https://github.com/hsy2493/ETC/issues/1#issue-2509846953)
-5. 작업 툴 : HTML, CSS, Javascript, JSP, Java, Spring mvc, Database(SQL)<br>
+5. 작업 툴 :
+  - Front-end : HTML, CSS, Javascript, JSP<br>
+  - Back-end Java, Spring mvc, Database(SQL)<br>
 6. 작업 인원 : 4명<br>
 7. 결과물 :<br>
 ## <화면구현><br>
