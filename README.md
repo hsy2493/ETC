@@ -16,7 +16,7 @@
   https://github.com/hsy2493/ETC/issues/1#issue-2509846953
 5. 작업 툴 :
   - Front-end : HTML, CSS, Javascript, JSP<br>
-  - Back-end Java, Spring mvc, Database(SQL)<br>
+  - Back-end : Java, Spring mvc, Database(SQL)<br>
 6. 작업 인원 : 4명<br>
 
 7. 결과물 :<br>
