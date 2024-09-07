@@ -13,13 +13,14 @@
 6. 작업 인원 : 4명<br>
 7. 결과물 :<br>
 ## <화면구현><br>
--로그인<br>
+(1) 로그인<br>
 ![image](https://github.com/user-attachments/assets/0de627df-dc3b-4804-8409-c077de5f6b58)<br>
--회원가입<br>
+(2) 회원가입<br>
 ![image](https://github.com/user-attachments/assets/14c11b94-99e7-4f55-8a22-52fd1f3b8a04)<br>
 
 ## <기능구현><br>
-
+(1) 로그인<br>
+(2) 회원가입<br>
 <b>8. 성과</b>
 
 
