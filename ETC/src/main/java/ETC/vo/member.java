@@ -1,4 +1,4 @@
-package backweb.ETC.vo;
+package ETC.vo;
 //backweb.ETC.vo.member
 import java.util.Date;
 public class member {

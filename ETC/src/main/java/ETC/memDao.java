@@ -1,12 +1,12 @@
-package backweb.ETC;
+package ETC;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import backweb.ETC.vo.member;
-import backweb.a04_database.DBconJ;
+import ETC.a04_database.DBconJ.DBconJ;
+import ETC.vo.member;
  //backweb.ETC.memDao
 public class memDao {
 		 
