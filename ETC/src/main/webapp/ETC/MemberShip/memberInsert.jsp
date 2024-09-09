@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8" import="java.util.*"
-	import="backweb.ETC.vo.*"
-	import="backweb.ETC.memDao"
+	import="ETC.vo.*"
+	import="ETC.memDao"
 	%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
@@ -12,8 +12,8 @@
 <head>
 <meta charset="UTF-8">
 <title>ETC 회원정보 등록</title>
-<jsp:useBean id="dao" class="backweb.ETC.memDao" />
-<jsp:useBean id="ins" class="backweb.ETC.vo.member" />
+<jsp:useBean id="dao" class="ETC.memDao" />
+<jsp:useBean id="ins" class="ETC.vo.member" />
 <jsp:setProperty property="*" name="ins" />
 <c:if test="${not empty param.memid}" >
   <c:set var="insCnt" value="${dao.insertMem(ins)}"/>
