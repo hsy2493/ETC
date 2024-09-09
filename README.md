@@ -33,6 +33,10 @@ https://github.com/hsy2493/ETC/blob/master/ETC/src/main/webapp/ETC/MemberShip/me
 
 ## <기능구현><br>
 (1) 로그인<br>
+- 로그인 성공
+  
+- 로그인 실패 <br>
+  ![image](https://github.com/user-attachments/assets/555f52b8-a5e3-4eca-8c63-7c8903582f03) <br>
 
 (2) 회원가입<br>
 
