@@ -61,7 +61,7 @@ https://github.com/hsy2493/ETC/blob/master/ETC/src/main/webapp/ETC/Login/login.j
 https://github.com/hsy2493/ETC/blob/master/ETC/src/main/webapp/ETC/Login/login.jsp <br>
 
 (2) 회원가입<br>
-- 회원정보 등록
+- 회원정보 등록 <br>
 ![image](https://github.com/user-attachments/assets/92168774-9956-496c-9168-8ec0d52fd16b) <br>
 ![image](https://github.com/user-attachments/assets/8c3af48d-9f49-48ed-aa2c-bf95316421c7) <br>
 ![image](https://github.com/user-attachments/assets/cfbc5898-d8a5-4c55-ad92-058e0cf66097) <br>
