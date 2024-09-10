@@ -16,18 +16,22 @@
   https://github.com/hsy2493/ETC/issues/1#issue-2509846953
 5. 작업 툴 :
   - Front-end : HTML, CSS, Javascript, JSP<br>
-  - Back-end : Java, Spring mvc, Database(SQL)<br>
+  - Back-end : Java, Spring mvc, Database<br>
 6. 작업 인원 : 4명<br>
 
 7. 결과물 :<br>
 ## <화면구현><br>
 (1) 로그인<br>
 ![image](https://github.com/user-attachments/assets/0de627df-dc3b-4804-8409-c077de5f6b58)<br>
+<설명><br>
+-아이디와 비밀번호를 입력한 후 로그인을 시도한다.<br>
 - 로그인 - 화면구현 상세 코드 <br>
 https://github.com/hsy2493/ETC/blob/master/ETC/src/main/webapp/ETC/Login/login.jsp <br>
 
 (2) 회원가입<br>
 ![image](https://github.com/user-attachments/assets/14c11b94-99e7-4f55-8a22-52fd1f3b8a04)<br>
+<설명><br>
+-회원정보 입력 후 회원 등록을 선택한다.<br>
 - 회원가입 - 화면구현 상세 코드 <br>
 https://github.com/hsy2493/ETC/blob/master/ETC/src/main/webapp/ETC/MemberShip/memberInsert.jsp <br>
 
