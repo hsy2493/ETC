@@ -7,6 +7,6 @@
 <title>메인 화면</title>
 </head>
 <body>
-
+      <h2>ETC 인강 사이트에 오신 것을 환영합니다!!</h2>
 </body>
 </html>
