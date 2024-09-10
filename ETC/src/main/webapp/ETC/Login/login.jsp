@@ -73,7 +73,7 @@
                     
                     if (isValidUser) {
                         session.setAttribute("user", memid);
-                        response.sendRedirect("login.jsp");
+                        response.sendRedirect("main.jsp");
                     } else {
                    %>
 <script>
