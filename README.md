@@ -81,7 +81,7 @@ https://github.com/hsy2493/ETC/blob/master/ETC/src/main/java/ETC/memDao.java<br>
 - Java에서 Database 연동 후, try문과 SQL문을 활용하여, 회원가입 중 회원정보 등록을 DB에 저장하는 것까지 기능구현이 가능함.
 - if문과 Java의 session scope 범위를 활용하여, 로그인 중 Database에 저장된 회원정보로 로그인 유효성 검사 시도 기능구현이 가능함.
 - Database Table 설계가 가능함.
-- 
+- 기술적 구현(Back) 뿐만 아니라, 비주얼적 요소(Front) 또한 고객의 입장에서 생각하고 고려하면서 프로젝트를 진행함.
 </b>
 
 
