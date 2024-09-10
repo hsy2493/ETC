@@ -73,7 +73,7 @@ https://github.com/hsy2493/ETC/blob/master/ETC/src/main/webapp/ETC/Login/login.j
 <설명> <br>
 -회원정보 등록 시, Database 연동 처리 후, <br>
 try문과 SQL문을 활용하여, 입력한 회원정보를 Database에 저장한다. <br>
-- 회원정보 등록 - 기능구현 상세 코드 <br>
+- 회원가입 : 회원정보 등록 - 기능구현 상세 코드 <br>
 https://github.com/hsy2493/ETC/blob/master/ETC/src/main/java/ETC/a04_database/DBconJ/DBconJ.java <br>
 https://github.com/hsy2493/ETC/blob/master/ETC/src/main/java/ETC/memDao.java<br>
 
