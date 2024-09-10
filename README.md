@@ -37,14 +37,52 @@ https://github.com/hsy2493/ETC/blob/master/ETC/src/main/webapp/ETC/MemberShip/me
 
 ## <기능구현><br>
 (1) 로그인<br>
-- 로그인 성공
-  
+<설명> <br>
+- Database에 저장된 회원정보로 로그인을 시도한다.<br>
+![image](https://github.com/user-attachments/assets/eb6fe99d-0040-46be-825b-7af2ef749cac) <br>
+- 아이디 : himan, 비밀번호 : 1234로 등록된 회원정보인 경우<br>
+- 로그인 - 기능구현 상세 코드 <br>
+https://github.com/hsy2493/ETC/blob/master/ETC/database/ETC/mem.sql <br>
+<br>
+
+- 로그인 성공 <br>
+  ![image](https://github.com/user-attachments/assets/378d4581-df42-4961-98ff-5c5e6683c21b) <br>
+![image](https://github.com/user-attachments/assets/b98fd20b-7aa5-45c0-bc9b-5ddc3ac0c9d8) <br>
+<설명><br>
+-로그인 성공 시, if문과 response.sendRedirect을 활용하여, 메인 페이지로 리다이랙션 한다.<br>
+- 로그인 성공 - 기능구현 상세 코드 <br>
+https://github.com/hsy2493/ETC/blob/master/ETC/src/main/webapp/ETC/Login/login.jsp <br>
+
 - 로그인 실패 <br>
   ![image](https://github.com/user-attachments/assets/555f52b8-a5e3-4eca-8c63-7c8903582f03) <br>
+<설명> <br>
+-로그인 실패 시, alert을 활용하여, 로그인 실패 메세지가 출력되면서, 로그인 페이지에 머문다.<br>
+- 로그인 실패 - 기능구현 상세 코드 <br>
+https://github.com/hsy2493/ETC/blob/master/ETC/src/main/webapp/ETC/Login/login.jsp <br>
 
 (2) 회원가입<br>
+- 회원정보 등록
+![image](https://github.com/user-attachments/assets/92168774-9956-496c-9168-8ec0d52fd16b) <br>
+![image](https://github.com/user-attachments/assets/8c3af48d-9f49-48ed-aa2c-bf95316421c7) <br>
+![image](https://github.com/user-attachments/assets/cfbc5898-d8a5-4c55-ad92-058e0cf66097) <br>
 
-<b>8. 성과</b>
+![image](https://github.com/user-attachments/assets/66fc0f31-3c29-44ea-98e8-b04b1d838dfa) <br>
+![image](https://github.com/user-attachments/assets/324bd0ac-6229-45b5-8ccf-529938b9b4ef) <br>
+![image](https://github.com/user-attachments/assets/209c2974-92b4-49e0-9227-837c09f97763) <br>
+
+<설명> <br>
+-회원정보 등록 시, Database 연동 처리 후, <br>
+try문과 SQL문을 활용하여, 입력한 회원정보를 Database에 저장한다. <br>
+- 회원정보 등록 - 기능구현 상세 코드 <br>
+https://github.com/hsy2493/ETC/blob/master/ETC/src/main/java/ETC/a04_database/DBconJ/DBconJ.java <br>
+https://github.com/hsy2493/ETC/blob/master/ETC/src/main/java/ETC/memDao.java<br>
+
+<b>8. 성과 
+- Java에서 Database 연동 후, try문과 SQL문을 활용하여, 회원가입 중 회원정보 등록을 DB에 저장하는 것까지 기능구현이 가능함.
+- if문과 Java의 session scope 범위를 활용하여, 로그인 중 Database에 저장된 회원정보로 로그인 유효성 검사 시도 기능구현이 가능함.
+- Database Table 설계가 가능함.
+- 
+</b>
 
 
 
