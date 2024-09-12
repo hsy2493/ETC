@@ -31,14 +31,14 @@ https://github.com/hsy2493/ETC/blob/master/ETC/src/main/webapp/ETC/Login/login.j
 (2) 회원가입<br>
 ![image](https://github.com/user-attachments/assets/14c11b94-99e7-4f55-8a22-52fd1f3b8a04)<br>
 <설명><br>
--회원정보 입력 후 회원 등록을 선택한다.<br>
+-회원정보 입력 후, 회원 등록을 선택한다.<br>
 - 회원가입 - 화면구현 상세 코드 <br>
 https://github.com/hsy2493/ETC/blob/master/ETC/src/main/webapp/ETC/MemberShip/memberInsert.jsp <br>
 
 ## <기능구현><br>
 (1) 로그인<br>
 <설명> <br>
-- Database에 저장된 회원정보로 로그인을 시도한다.<br>
+- Database에 저장된 회원정보로, 로그인을 시도한다.<br>
 ![image](https://github.com/user-attachments/assets/eb6fe99d-0040-46be-825b-7af2ef749cac) <br>
 - 아이디 : himan, 비밀번호 : 1234로 등록된 회원정보인 경우<br>
 - 로그인 - 기능구현 상세 코드 <br>
